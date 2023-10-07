@@ -19,14 +19,14 @@ var Alumni = function (_React$Component) {
     _this.alumni = [{
       nume: "Darius Giurgi - Mentor Alumni",
       poza: "poze/mentori/darius.jpg",
-      facultate: "Facultatea de Inginerie Industrială și Robotică, UPB",
+      facultate: "Inginerie Industrială și Robotică, UPB",
       instagram: "https://www.instagram.com/darius_giurgi/",
       facebook: "https://www.facebook.com/profile.php?id=100089605624877",
     },
     {
       nume: "Silviu Pontoș - Mentor Alumni",
       poza: "poze/membri/silviuPontos.JPG",
-      facultate: "Facultatea de Inginerie Industrială și Robotică , UPB",
+      facultate: "Inginerie Industrială și Robotică , UPB",
       instagram: "https://www.instagram.com/_sipandrei_/",
       facebook: "https://www.facebook.com/silviu.pontos/",
       github: "https://github.com/sipandrei",
@@ -34,7 +34,7 @@ var Alumni = function (_React$Component) {
     {
       nume: "Alin Fonta - Mentor Alumni",
       poza: "poze/alumni/alin.jpeg",
-      facultate: "Facultatea de Inginerie Industrială și Robotică, UPB",
+      facultate: "Inginerie Industrială și Robotică, UPB",
       instagram: "https://www.instagram.com/alinfonta/",
       facebook: "https://www.facebook.com/profile.php?id=100007190566659",
     },
@@ -69,14 +69,14 @@ var Alumni = function (_React$Component) {
     {
       nume: "David Holociuc",
       poza: "poze/alumni/holociuc.jpg",
-      facultate: "Facultatea de Inginerie Industrială și Robotică, UPB",
+      facultate: "Inginerie Industrială și Robotică, UPB",
       instagram: "https://www.instagram.com/davidholociuc/",
       facebook: "https://www.facebook.com/david.holociuc",
     },
     {
       nume: "Ovidiu Gherman",
       poza: "poze/alumni/ovi.png",
-      facultate: "Facultatea de Electronică, Telecomunicații și Tehnologia informației, UTCN",
+      facultate: "Electronică, Telecomunicații și Tehnologia informației, UTCN",
       instagram: "https://www.instagram.com/gherman_ovidiu/",
       facebook: "https://www.facebook.com/profile.php?id=100006239205368",
     },
@@ -90,7 +90,7 @@ var Alumni = function (_React$Component) {
     {
       nume: "Bogdan Giurgi",
       poza: "poze/membr.png",
-      facultate: "Automatică și calculatoare, UTCN",
+      facultate: "Technical Computer Science, University of Twente",
       instagram: "https://www.instagram.com/vosi8783/",
     },
     {
@@ -114,22 +114,28 @@ var Alumni = function (_React$Component) {
     {
       nume: "Florentina Dunca",
       poza: "poze/alumni/tina.jpeg",
-      facultate: "Facultatea de Inginerie Industrială și Robotică , UPB",
+      facultate: "Inginerie Industrială și Robotică , UPB",
       instagram: "https://www.instagram.com/d.ttina/",
       facebook: "https://www.facebook.com/d.ttinaa",
     },
     {
       nume: "Cosmin Mihai",
       poza: "poze/alumni/coco.jpeg",
-      facultate: "Facultatea de Mecatronică și Robotică, UPT",
+      facultate: "Mecatronică și Robotică, UPT",
       instagram: "https://www.instagram.com/cosminclaudiumihai/",
       facebook: "https://www.facebook.com/profile.php?id=100029654430047",
+    },
+    {
+      nume: "Raul Pituc",
+      poza: "poze/alumni/pituc.jpeg",
+      instagram: "https://www.instagram.com/raul.pituc/",
+      facebook: "https://m.facebook.com/raul.pituc.3/",
     },
     
     {
       nume: "Cosmin Sabadâș",
       poza: "poze/alumni/cosmins.jpg",
-      facultate: "Facultatea de Automatică și Calculatoare, UTCN",
+      facultate: "Automatică și Calculatoare, UTCN",
       instagram: "https://www.instagram.com/sabadascosmin/",
       facebook: "https://www.facebook.com/sabadas.cosmin",
     }];

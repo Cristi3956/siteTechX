@@ -41,7 +41,7 @@ var Membri = function (_React$Component) {
     },
     {
       nume: "Stan Alexandru",
-      poza: "poze/membri/bojnet.jpeg",
+      poza: "poze/membri/placeholder.jpeg",
       departament: "Media",
       instagram: "https://www.instagram.com/stan_alex_/",
       facebook: "https://www.facebook.com",

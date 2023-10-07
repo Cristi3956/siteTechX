@@ -16,11 +16,13 @@ var Sponsori = function (_React$Component) {
 
     var _this = _possibleConstructorReturn(this, (Sponsori.__proto__ || Object.getPrototypeOf(Sponsori)).call(this, props));
 
-    _this.sponsori = [{
+    _this.sponsori = [
+    {
       nume: "Plimob",
       poza: "poze/sponsori/plimob.png",
       facebook: "https://www.plimob.ro/ro/home"
-    }, {
+    },
+    {
       nume: "Bazil1992",
       poza: "poze/sponsori/bazil.png",
       facebook: "https://www.facebook.com/Bazil1992"
